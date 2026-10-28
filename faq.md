@@ -197,4 +197,4 @@ RAG 是"自动检索再把相关资料贴给它"。区别在于：资料太多�
 
 - 查词：[术语表](./glossary.md)
 - 看原理：[01 · AI 是什么](./01-basics/ai-basics.md) 开始
-- 准备面试：[面试问答](./interview-faq.md)
+- 查词：[术语表](./glossary.md)

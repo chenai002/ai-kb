@@ -102,7 +102,7 @@ AI 这个词太大了。本知识库讲的是**当前最主流的那一类 AI：
 | --- | --- |
 | [glossary.md](./glossary.md) | 术语表，遇到不认识的词就来查 |
 | [faq.md](./faq.md) | 常见困惑：小白最常问的 30 个问题 |
-| [interview-faq.md](./interview-faq.md) | 面试用：能从原理讲到应用的问答 |
+| [13-token-calculation.md](./13-token-calculation.md) | token 是怎么算的、一个汉字等于几个 token |
 
 ---
 
