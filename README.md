@@ -119,6 +119,7 @@ AI 这个词太大了。本知识库讲的是**当前最主流的那一类 AI：
 | 文档 | 用途 |
 | --- | --- |
 | [13-token-calculation.md](./13-token-calculation.md) | **专题**：token 到底怎么算、一个汉字等于几个 token（读 11 时一起看） |
+| [14-model-parameters.md](./14-model-parameters.md) | **专题**：LLM 的「参数」是什么意思、7B 是什么、显存怎么算 |
 | [glossary.md](./glossary.md) | 术语表，遇到不认识的词就来查 |
 | [faq.md](./faq.md) | 常见困惑：小白最常问的 30 个问题 |
 
